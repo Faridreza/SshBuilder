@@ -1,0 +1,4 @@
+IP=''
+USERNAME=''
+PASSWORD=''
+TOKEN=''
